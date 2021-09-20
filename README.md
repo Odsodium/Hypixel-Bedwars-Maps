@@ -1,6 +1,6 @@
 # Hypixel-Bedwars-Maps
  
-These are all the bedwars maps I have. if you have any I dont have, create a pull request or contact me on discord Bs_zombie#7353
+These are all the bedwars maps I have. If you have any I dont have, create a pull request or contact me on discord Bs_zombie#7353
 
 # Missing Maps:
 
